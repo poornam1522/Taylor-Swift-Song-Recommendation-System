@@ -1,6 +1,5 @@
 # Taylor Swift Song Recommendation System
  
-# Taylor Swift Song Recommendation System
 
 This project is a Taylor Swift song recommendation system built using natural language processing (NLP) and the **Sentence-BERT** model. The user enters a sentence or a mood, and the system recommends the top 3 most matching Taylor Swift songs.
 
