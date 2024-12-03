@@ -14,4 +14,4 @@ This project is a Taylor Swift song recommendation system built using natural la
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/taylor-swift-recommendation.git
+   git clone https://github.com/poornam1522/taylor-swift-recommendation.git
